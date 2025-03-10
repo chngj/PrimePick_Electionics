@@ -14,8 +14,9 @@ Project Goals
 
 ## Executive Summary
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/505c925a-f006-40da-966b-e6b1e24bf7c8" alt="Image">
+  <img src="https://github.com/user-attachments/assets/505c925a-f006-40da-966b-e6b1e24bf7c8" alt="Image" width="100%">
 </p>
+
 ## Insights Deep Dive
 
 ## Recommendations 
