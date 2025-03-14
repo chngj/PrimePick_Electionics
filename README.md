@@ -27,7 +27,7 @@ Project Goals
   <img src="https://github.com/user-attachments/assets/8dad7861-42bf-4341-b673-7231066d44e4" alt="Image" ;">
 </p>
 
-
+Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in sales with **$19M worth of sales** occuring during this period. This spike accounts for **68% of total sales**. The main driver of the spike comes from the increased order amounts that happened in those months.
 
 
 ## Insights Deep Dive
