@@ -24,8 +24,9 @@ Project Goals
 
 ## Executive Summary
 <p align="center" style="width: 100%;">
-  <img src="https://github.com/user-attachments/assets/505c925a-f006-40da-966b-e6b1e24bf7c8" alt="Image" ;">
+  <img src="https://github.com/user-attachments/assets/8dad7861-42bf-4341-b673-7231066d44e4" alt="Image" ;">
 </p>
+
 
 
 
