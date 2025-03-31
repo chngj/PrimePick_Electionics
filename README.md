@@ -33,5 +33,6 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 
 
 ## Insights Deep Dive
+### Sales Trend Analysis
 
 ## Recommendations 
