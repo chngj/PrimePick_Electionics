@@ -35,8 +35,10 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 ## Insights Deep Dive
 ### Sales Trend Analysis
 
-<img src="https://github.com/user-attachments/assets/95700014-6f0d-469c-b62b-98be4e3600de" style="height: 130%; width: auto;">
+<img src="https://github.com/user-attachments/assets/95700014-6f0d-469c-b62b-98be4e3600de" style="height: 150%; width: auto;">
 
+**Sales** 
 
+- **COVID-19 Growth:** From March 2020 until January 2022 the average monthly sale revenue was ~830K USD. Outside of these months the average monthly sale revenue was ~360K USD.
 
 ## Recommendations 
