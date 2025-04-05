@@ -1,7 +1,7 @@
 # Prime Pick Electronics E-Commerce Analysis
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/90dd485f-5f9a-4559-8262-65245037f3c2" alt="Image" >
+<p align="center" style="width: 100%;">
+  <img src="https://github.com/user-attachments/assets/90dd485f-5f9a-4559-8262-65245037f3c2" alt="Image"  ;">
 </p>
 
 
