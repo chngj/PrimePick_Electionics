@@ -50,4 +50,6 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 - Order count follows a very similar growth and decline as total sales. Where revenue was maximums occured order counts had the same peaks.
 - Average order count has more correlations to sales than AOV. Customers may tend to order multiple times rather than making a single large purchase.
 
+![Image](https://github.com/user-attachments/assets/d18c2402-b24e-4537-9d75-80839ff256f4)
+
 ## Recommendations 
