@@ -44,6 +44,10 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 
 **Average Order Value(AOV)**
 - **AOV peak** occured during October 2020 at an average of $322 USD. Compared to total sales and Order Count, AOV did not grow nearly as much. The highest month for growth was **Post-Pandemic on September 2022**.
-- Outlier Month of September 2022 should be investigated more to see what promotions were done as AOV tends to remain stable with growth rate.
+- **Outlier Month** of September 2022 should be investigated more to see what promotions were done as AOV tends to remain stable with growth rate.
+
+**Order Count**
+- Order count follows a very similar growth and decline as total sales. Where revenue was maximums occured order counts had the same peaks.
+- Average order count has more correlations to sales than AOV. Customers may tend to order multiple times rather than making a single large purchase.
 
 ## Recommendations 
