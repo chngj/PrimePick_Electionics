@@ -40,6 +40,10 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 **Sales** 
 
 - **COVID-19 Growth:** From March 2020 until January 2022 the average monthly sale revenue was ~830K USD. Outside of these months the average monthly sale revenue was ~360K USD. This represents an 128% increase.
-- **Post pandemic Analysis:** After the spike in sales of COVID months, the average monhtly sales revenue post pandemic is 386K USD. Pre pandemic the average was 343K USD. But, the lowest sales months occur post pandemic.
+- **Post Pandemic Analysis:** After the spike in sales of COVID months, the average monhtly sales revenue post pandemic is 386K USD. Pre pandemic the average was 343K USD. But, the lowest sales months occur post pandemic.
+
+**Average Order Value(AOV)**
+- **AOV peak** occured during October 2020 at an average of $322 USD. Compared to total sales and Order Count, AOV did not grow nearly as much. The highest month for growth was **Post-Pandemic on September 2022**.
+- Outlier Month of September 2022 should be investigated more to see what promotions were done as AOV tends to remain stable with growth rate.
 
 ## Recommendations 
