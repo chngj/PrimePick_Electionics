@@ -61,7 +61,8 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 
 **Brand Analysis**
 - **Apple brand:** Apple is the brand that takes up the majority of product sales. They hold 49% of total average sales across all years. This equates to around 13.9M USD in sales. Although the Apple Iphone is not perfomring nearly as well as the Airpods and Macbook air. **The Iphone represents 0.76% of all sales revenue**.
-- fgddfg
+- **ThinkPad & Bose:** With these two brands they hold very little amount of the product sales. Bose holds 0.01% of all sales, while ThinkPad did not get the same amount of sales compared to Apple during the pandemic. ThinkPad made up 11.41% of sales.
+- **ThinkPad Continuation:** During the pandemic years, ThinkPad had 4.55% and 3.65% of grand total sales those years. After the pandemic though ThinkPad lost nearly half of its portion of sales, with 2022 only representing 1.79%
 
 
 
