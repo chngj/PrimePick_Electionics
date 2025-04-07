@@ -52,9 +52,10 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 
 ### Product & Brand Analysis
 
-![Image](https://github.com/user-attachments/assets/277fac8a-d405-4e35-bb70-d28c497c22d1)
+![Image](https://github.com/user-attachments/assets/494d53a4-5387-4230-a00c-f1ff03cd83d3)
 
-- 
+- **Top product marketshare:** Majority of the product share is the 27IN gaming monitor at **35% of all sales revenue earned**. Total sales earned being 9.85M USD. In second and third come the Apple airpods and Macbook Air Laptop at 27% and 22% respectively.
+- **Worst performing products:** The worst performing product is the Bose soundsport headphones which over all years has sold **$3,339 USD**. Next, comes the Apple Iphone at 213K USD and Samsung webcam at 361K USD.
 
 
 ## Recommendations 
