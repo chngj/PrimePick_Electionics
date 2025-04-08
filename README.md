@@ -64,6 +64,11 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 - **ThinkPad & Bose:** With these two brands they hold very little amount of the product sales. Bose holds 0.01% of all sales, while ThinkPad did not get the same amount of sales compared to Apple during the pandemic. ThinkPad made up 11.41% of sales.
 - **ThinkPad Continuation:** During the pandemic years, ThinkPad had 4.55% and 3.65% of grand total sales those years. After the pandemic though ThinkPad lost nearly half of its portion of sales, with 2022 only representing 1.79%.
 
+### Loyalty Program
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d4a83da-dd27-4c56-afab-03edd50bd3b2" alt="Image" />
+</p>
 
 
 
