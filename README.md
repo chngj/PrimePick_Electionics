@@ -70,6 +70,7 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
   <img src="https://github.com/user-attachments/assets/8d4a83da-dd27-4c56-afab-03edd50bd3b2" alt="Image" />
 </p>
 
+- **Loyalty program adoption**: Initially in 2019 there was early adoption of the loyalty program with 10.75% of sales revenue belonging to those who were part of the loyalty program. But, with sales spiking from the COVID-19 pandemic the loyalty program saw a big shift in members. By 2022 Loyalty members held the majority of sales revenue at 54.84%.
 
 
 ## Recommendations 
