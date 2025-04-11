@@ -28,7 +28,7 @@ Project Goals
 </p>
 
 Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in sales with **$19M worth of sales** occuring during this period. This spike accounts for **68% of total sales**. The main driver of the spike comes from the increased order amounts of **3000 orders per month**.
-  - The spike in total sales can be attributed to 2 factors. AOV and order count increasing. Between March and December of 2020, there was a spike of about $100 in AOV but the larger increase coming from the order count with sales jumping from 1.6K to 4K per month.
+  - The spike in total sales can be attributed to 2 factors. AOV and order count increasing. Between March and December of 2020, there was a spike of about $100 in AOV but the larger increase coming from the order count with sales jumping from **1.6K to 4K per month**.
   - Product market share was held by Apple and its two main products. Apple held 49% of total product revenue. Macbook Air sales held 22% of sales while the Apple Airpods accounted for 49% of sales. Bose holds the smallest share of the product revenue with less than 3.4K USD in sales.
 
 
