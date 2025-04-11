@@ -80,5 +80,6 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 </p>
 
 - **Marketing Diversity**: Direct marketing draws in the most amount of sales at 83.69% of all sales revenue. Direct marketing maintains this majority for all four years present, and show that other marketing channels do not trend positively.
+- **Social Media**: Social media is the worst performing marketing channel with it accounting for only 1.08% of grand total sales across 4 years. Although, social media brought in 298K USD worth of sales.
 
 ## Recommendations 
