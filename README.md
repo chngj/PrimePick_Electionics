@@ -75,6 +75,9 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 
 ### Marketing Channels
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db22019a-d660-4061-9984-7cf55fddb5ab" alt="Image" width="100%" />
+</p>
 
 
 ## Recommendations 
