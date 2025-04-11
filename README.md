@@ -79,5 +79,6 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
   <img src="https://github.com/user-attachments/assets/db22019a-d660-4061-9984-7cf55fddb5ab" alt="Image" width="100%" />
 </p>
 
+- **Marketing Diversity**: Direct marketing draws in the most amount of sales at 83.69% of all sales revenue. Direct marketing maintains this majority for all four years present.
 
 ## Recommendations 
