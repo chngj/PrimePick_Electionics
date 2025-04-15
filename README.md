@@ -95,5 +95,10 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 ### Loyalty Program
 
 - **Keep Loyalty Program**: With the overall leap in loyalty program usage it is clear that the program is both being used and being adopted at a quick rate that benefits both parties. In 2022 loyalty members are ordering more products and also spending more per cart as well.
-- **Loyalty Program Perks**: A perk that could boost both retention and sign ups for the program is providing more perks that benefit users. By signing up PrimePicks can send emails to users when products go on sale or send out coupon codes that will keep users coming back.
+- **Loyalty Program Perks**: A perk that could boost both retention and sign ups for the program is providing more perks that benefit users. By signing up PrimePicks can send emails to users when products go on sale or send out exclusive coupon codes that will keep users coming back.
+- **Email Marketing Revenue**: The loyalty program can help boost sales created from emails because of these perks. This can be another marketing medium that can draw in more customers to increase sales.
 
+### Marketing
+
+- **Marking Diversity**: The performance of direct marketing is the main driver for PrimePicks sales. An investigation should be done to see why direct marketing is beating all other means of marketing. By applying the aspects that work best with direct marketing then you can tap into other hidden markets and customers with other marketing mediums .
+- **Social Media**: Social media is one of those channels that can greatly boost sales with minimal costs. Tiktok and Instagram are easy and inexpensive ways of reaching to target audiences that are interested in technology and products. As the lowest performing marketing channel it is worth taking a look into a social media campaign to draw in more customers. 
