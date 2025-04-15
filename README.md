@@ -89,5 +89,6 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 ### Product and Brand Recommendations
 
 - **Computer Peripherals**: With the massive 35% of sales held by the 27IN gaming monitor, there is potential for more gaming peripherals such mice and keyboards that could fit nicely with the sale of the monitor.
-- **Discontinue Products**: Looking at the Bose headphones and the weak 
+- **Discontinue Products**: Looking at the Bose headphones and its weak performance there should be an investigation to see why the product performed so poorly. If there was proper funding for the headphones then PrimePicks should look to discontinue if storage costs are too high.
+- **Offer Apple Iphone in bundle sales**: With all other Apple products performing well there should be an investigation to see why the Iphones are not selling as well. Offering a bundle with airpod headphones may provide a boost in sales to garner more of the product share.
 
