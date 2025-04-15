@@ -92,3 +92,8 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 - **Discontinue Products**: Looking at the Bose headphones and its weak performance there should be an investigation to see why the product performed so poorly. If there was proper funding for the headphones then PrimePicks should look to discontinue if storage costs are too high.
 - **Offer Apple Iphone in bundle sales**: With all other Apple products performing well there should be an investigation to see why the Iphones are not selling as well. Offering a bundle with airpod headphones may provide a boost in sales to garner more of the product share.
 
+### Loyalty Program
+
+- **Keep Loyalty Program**: With the overall leap in loyalty program usage it is clear that the program is both being used and being adopted at a quick rate that benefits both parties. In 2022 loyalty members are ordering more products and also spending more per cart as well.
+- **Loyalty Program Perks**: A perk that could boost both retention and sign ups for the program is providing more perks that benefit users. By signing up PrimePicks can send emails to users when products go on sale or send out coupon codes that will keep users coming back.
+
