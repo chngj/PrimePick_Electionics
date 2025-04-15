@@ -85,3 +85,9 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 - **Social Media**: Social media is the worst performing marketing channel with it accounting for only 1.08% of grand total sales across 4 years. Although, social media brought in 298K USD worth of sales.
 
 ## Recommendations 
+
+### Product and Brand Recommendations
+
+- **Computer Peripherals**: With the massive 35% of sales held by the 27IN gaming monitor, there is potential for more gaming peripherals such mice and keyboards that could fit nicely with the sale of the monitor.
+- **Discontinue Products**: Looking at the Bose headphones and the weak 
+
