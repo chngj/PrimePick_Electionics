@@ -53,7 +53,7 @@ Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in
 
 ### Product & Brand Analysis
 
-![Image](https://github.com/user-attachments/assets/c37b179b-9f57-406f-a1ae-29ca82446941)
+![Image](https://github.com/user-attachments/assets/81886437-0c56-4d29-893f-439dcd459174)
 
 **Product Analysis**
 - **Top product marketshare:** Majority of the product share is the 27IN gaming monitor at **35% of all sales revenue earned**. Total sales earned being 9.85M USD. In second and third come the Apple airpods and Macbook Air Laptop at 27% and 22% respectively.
