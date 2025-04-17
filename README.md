@@ -23,7 +23,7 @@ Project Goals
 
 ## Executive Summary
 <p align="center" style="width: 100%;">
-  <img src="https://github.com/user-attachments/assets/8dad7861-42bf-4341-b673-7231066d44e4" alt="Image" ;">
+  <img src="https://github.com/user-attachments/assets/3958def1-70b2-4f30-a037-903c9df9f52f" ;">
 </p>
 
 Prime Pick Electronics in the years of 2020-2022 experienced a sharp increase in sales with **$19M worth of sales** occuring during this period. This spike accounts for **68% of total sales**. The main driver of the spike comes from the increased order amounts of **3000 orders per month**.
